@@ -1,0 +1,14 @@
+.video-details-container {
+  height: 100vh;
+}
+.video-detail {
+  border: 1px solid black;
+  height: 50%;
+}
+.video-details-container div {
+  height: 50%;
+}
+iframe {
+  height: 100%;
+  width: 100%;
+}
